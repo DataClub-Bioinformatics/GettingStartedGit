@@ -36,8 +36,11 @@ touch __init__.py
 
 6. 
 cd ..
+
 git status (kolla ändringar att checka in)
+
 git add . (lägg till de filerna som skapats upp
+
 git commit -m ”{beskriv tillägget kort}”
 
 git push (skicka koden till git)
