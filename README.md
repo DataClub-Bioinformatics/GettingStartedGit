@@ -26,18 +26,20 @@ sitt git konto så lägger den automatiskt in gitlösenordet.
 3. Klona repositoriet i en passande mapp i datorn, antingen genom
    GitHub Desktop eller via terminalen gå in i mappen där ni vill att 
    mappen ska hamna och skriva:
-   git clone https://github.com/DataClub-Bioinformatics/GettingStartedGit.git
+```
+git clone https://github.com/DataClub-Bioinformatics/GettingStartedGit.git
+```
 
 4. Gå till klonade mappen och skapa upp en map sen skriv i terminalen:
-´´´
+```
 mkdir {din mapp med valfritt namn}
 cd {din mapp}
 touch __init__.py
-´´´
+```
 5. skapa upp en .py fil med valfritt namn och skriv något i denna fil.
 
 6. Skriv i terminalen:
-´´´
+```
 cd ..
 
 git status (kolla status om det finns något att checka in)
@@ -49,7 +51,7 @@ git commit -m ”något meddelande” (Här skriver man in något meddelande som
 beskriver ändringen som skett)
 
 git push (skicka koden till git) 
-´´´
+```
 
-
+:clap:
 
