@@ -8,7 +8,7 @@ eller att gå tillbaka och titta på tidigare versioner om något gått fel.
 I git jobbar vi med olika projekt som är huvudmappar som kallas för 
 __Repositories__. Dessa huvudmappar blir python projekt med undermappar som
 kallas __Packages__. En Package måste innehålla en tom fil som heter
-\__init__.py för att hittas av pythons projektstruktur. I dessa undermappar
+\\__init__.py för att hittas av pythons projektstruktur. I dessa undermappar
 lägger vi vanliga py scripts som kallas modules. Vi kommer med tiden
 jobba fram en bra mappstruktur men kör pä så här till en början.
 
@@ -17,7 +17,7 @@ GitHub Desktop. Den gör så att man slipper krångla med att skriva in
 lösenord eller skaffa SSH nycklar. När man laddat ner den och loggat in på 
 sitt git konto så lägger den automatiskt in gitlösenordet.
 
-__Dags att komma igång__
+_Dags att komma igång_
 1. Se till så att jag har invitat er git till Repositoriet
 
 2. Logga in på GitHub Desktop alternativt se till så att användarnamn
