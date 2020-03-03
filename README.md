@@ -1,4 +1,4 @@
-*Komma igång med GIT* :trollface:
+**Komma igång med GIT** :trollface:
 
 Git är bra för att ha koll på versioner, historik när man kodar själv och
 framförallt när man kodar tillsammans med andra. Dels för att man kan jobba 
@@ -17,7 +17,7 @@ GitHub Desktop. Den gör så att man slipper krångla med att skriva in
 lösenord eller skaffa SSH nycklar. När man laddat ner den och loggat in på 
 sitt git konto så lägger den automatiskt in gitlösenordet.
 
->Dags att komma igång
+*Dags att komma igång*
 1. Se till så att jag har invitat er git till Repositoriet
 
 2. Logga in på GitHub Desktop alternativt se till så att användarnamn
