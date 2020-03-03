@@ -9,7 +9,7 @@ I git jobbar vi med olika projekt som är huvudmappar som kallas för
 __Repositories__. Dessa huvudmappar blir python projekt med undermappar som
 kallas __Packages__. En Package måste innehålla en tom fil som heter
 \_\_init__.py för att hittas av pythons projektstruktur. I dessa undermappar
-lägger vi vanliga py scripts som kallas modules. Vi kommer med tiden
+lägger vi vanliga py scripts som kallas __modules__. Vi kommer med tiden
 jobba fram en bra mappstruktur men kör pä så här till en början.
 
 Det absolut enklaste sättet att få ordning på git är att ladda ner 
@@ -18,7 +18,8 @@ lösenord eller skaffa SSH nycklar. När man laddat ner den och loggat in på
 sitt git konto så lägger den automatiskt in gitlösenordet.
 
 _Dags att komma igång_
-1. Se till så att jag har invitat er git till Repositoriet
+1. Se till så att jag har invitat er git till Repositoriet GettingStartedGit 
+(annars gör alla steg fram till punkt 6 och invänta sedan en request innan ni fortsätter)
 
 2. Logga in på GitHub Desktop alternativt se till så att användarnamn
    och email finns i gits globala inställningar på datorn. 
