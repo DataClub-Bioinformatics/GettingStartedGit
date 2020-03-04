@@ -1,1 +1,1 @@
-Tja
+print('Tjena mittbena ;)')
