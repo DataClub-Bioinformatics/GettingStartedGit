@@ -1,1 +1,1 @@
-print("Det fungerar")
+print("Det kanske låter gott")
